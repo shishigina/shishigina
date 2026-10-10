@@ -30,3 +30,5 @@ I'm a passionate **Data/Product Analytics** enthusiast currently pursuing my deg
 | Certification | Issuer | Year |
 |---------------|--------|------|
 | Basic course on data analysis | T-Education | 2025 |
+| Diploma of Professional Retraining in "DevOps Technologies" | RTU MIREA (Russian Technological University) | 2026 |
+| Certificate of Advanced Training in "Big Data System Analytics" | Moscow Polytechnic University | 2026 |
